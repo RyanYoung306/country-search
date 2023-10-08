@@ -1,0 +1,344 @@
+[
+    {
+      "name": "Albania",
+      "details": {
+        "capital": "Tirana",
+        "population": 2862427,
+        "currency": "Albanian lek",
+        "continent": "Europe",
+        "language": "Albanian"
+      },
+      "flag": "albania.jpg"
+    },
+    {
+      "name": "Andorra",
+      "details": {
+        "capital": "Andorra la Vella",
+        "population": 77543,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Catalan"
+      },
+      "flag": "andorra.jpg"
+    },
+    {
+      "name": "Australia",
+      "details": {
+        "capital": "Canberra",
+        "population": 25731200,
+        "currency": "Australian dollar",
+        "continent": "Oceania",
+        "language": "English"
+      },
+      "flag": "australia.jpg"
+    },
+    {
+      "name": "Brazil",
+      "details": {
+        "capital": "Brasília",
+        "population": 209288278,
+        "currency": "Brazilian real",
+        "continent": "South America",
+        "language": "Portuguese"
+      },
+      "flag": "brazil.jpg"
+    },
+    {
+      "name": "Belgium",
+      "details": {
+        "capital": "Brussels",
+        "population": 11372068,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Dutch, French, German"
+      },
+      "flag": "belgium.jpg"
+    },
+    {
+      "name": "Canada",
+      "details": {
+        "capital": "Ottawa",
+        "population": 36624199,
+        "currency": "Canadian dollar",
+        "continent": "North America",
+        "language": "English, French"
+      },
+      "flag": "canada.jpg"
+    },
+    {
+      "name": "China",
+      "details": {
+        "capital": "Beijing",
+        "population": 1409517397,
+        "currency": "Renminbi",
+        "continent": "Asia",
+        "language": "Mandarin"
+      },
+      "flag": "china.jpg"
+    },
+    {
+      "name": "France",
+      "details": {
+        "capital": "Paris",
+        "population": 67101930,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "French"
+      },
+      "flag": "france.jpg"
+    },
+    {
+      "name": "Germany",
+      "details": {
+        "capital": "Berlin",
+        "population": 82175700,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "German"
+      },
+      "flag": "germany.jpg"
+    },
+    {
+      "name": "India",
+      "details": {
+        "capital": "New Delhi",
+        "population": 1339180127,
+        "currency": "Indian Rupee",
+        "continent": "Asia",
+        "language": "Hindi, English"
+      },
+      "flag": "india.jpg"
+    },
+    {
+      "name": "Indonesia",
+      "details": {
+        "capital": "Jakarta",
+        "population": 263991379,
+        "currency": "Indonesian Rupiah",
+        "continent": "Asia",
+        "language": "Indonesian"
+      },
+      "flag": "indonesia.jpg"
+    },
+    {
+      "name": "Ireland",
+      "details": {
+        "capital": "Dublin",
+        "population": 4761657,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Irish, English"
+      },
+      "flag": "ireland.jpg"
+    },
+    {
+      "name": "Italy",
+      "details": {
+        "capital": "Rome",
+        "population": 59359900,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Italian"
+      },
+      "flag": "italy.jpg"
+    },
+    {
+      "name": "Japan",
+      "details": {
+        "capital": "Tokyo",
+        "population": 126785797,
+        "currency": "Japanese yen",
+        "continent": "Asia",
+        "language": "Japanese"
+      },
+      "flag": "japan.jpg"
+    },
+    {
+      "name": "Kenya",
+      "details": {
+        "capital": "Nairobi",
+        "population": 49699862,
+        "currency": "Kenyan Shilling",
+        "continent": "Africa",
+        "language": "Swahili, English"
+      },
+      "flag": "kenya.jpg"
+    },
+    {
+      "name": "Luxembourg",
+      "details": {
+        "capital": "Luxembourg City",
+        "population": 583455,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Luxembourgish, French, German"
+      },
+      "flag": "luxembourg.jpg"
+    },
+    {
+      "name": "Mexico",
+      "details": {
+        "capital": "Mexico City",
+        "population": 123675325,
+        "currency": "Mexican Peso",
+        "continent": "North America",
+        "language": "Spanish"
+      },
+      "flag": "mexico.jpg"
+    },
+    {
+      "name": "New Zealand",
+      "details": {
+        "capital": "Wellington",
+        "population": 4705818,
+        "currency": "New Zealand Dollar",
+        "continent": "Oceania",
+        "language": "English, Māori"
+      },
+      "flag": "new_zealand.jpg"
+    },
+    {
+      "name": "Nigeria",
+      "details": {
+        "capital": "Abuja",
+        "population": 190886311,
+        "currency": "Nigerian Naira",
+        "continent": "Africa",
+        "language": "English"
+      },
+      "flag": "nigeria.jpg"
+    },
+    {
+      "name": "Portugal",
+      "details": {
+        "capital": "Lisbon",
+        "population": 10329506,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Portuguese"
+      },
+      "flag": "portugal.jpg"
+    },
+    {
+      "name": "Russia",
+      "details": {
+        "capital": "Moscow",
+        "population": 143989754,
+        "currency": "Russian Ruble",
+        "continent": "Europe and Asia",
+        "language": "Russian"
+      },
+      "flag": "russia.jpg"
+    },
+    {
+      "name": "South Africa",
+      "details": {
+        "capital": "Pretoria",
+        "population": 56717156,
+        "currency": "South African Rand",
+        "continent": "Africa",
+        "language": "Afrikaans, English, Zulu, Xhosa, Tswana, Sotho, Pedi, Swazi, Venda, Tsonga, Northern Sotho"
+      },
+      "flag": "south_africa.jpg"
+    },
+    {
+      "name": "South Korea",
+      "details": {
+        "capital": "Seoul",
+        "population": 50982212,
+        "currency": "South Korean Won",
+        "continent": "Asia",
+        "language": "Korean"
+      },
+      "flag": "south_korea.jpg"
+    },
+    {
+      "name": "Spain",
+      "details": {
+        "capital": "Madrid",
+        "population": 46354321,
+        "currency": "Euro",
+        "continent": "Europe",
+        "language": "Spanish"
+      },
+      "flag": "spain.jpg"
+    },
+    {
+      "name": "Sweden",
+      "details": {
+        "capital": "Stockholm",
+        "population": 9960487,
+        "currency": "Swedish Krona",
+        "continent": "Europe",
+        "language": "Swedish"
+      },
+      "flag": "sweden.jpg"
+    },
+    {
+      "name": "Thailand",
+      "details": {
+        "capital": "Bangkok",
+        "population": 69183173,
+        "currency": "Thai Baht",
+        "continent": "Asia",
+        "language": "Thai"
+      },
+      "flag": "thailand.jpg"
+    },
+    {
+      "name": "Ukraine",
+      "details": {
+        "capital": "Kyiv",
+        "population": 44222947,
+        "currency": "Ukrainian Hryvnia",
+        "continent": "Europe",
+        "language": "Ukrainian"
+      },
+      "flag": "ukraine.jpg"
+    },
+    {
+      "name": "United Kingdom",
+      "details": {
+        "capital": "London",
+        "population": 66181585,
+        "currency": "British Pound Sterling",
+        "continent": "Europe",
+        "language": "English"
+      },
+      "flag": "united_kingdom.jpg"
+    },
+    {
+      "name": "United States of America",
+      "details": {
+        "capital": "Washington, D.C.",
+        "population": 324057400,
+        "currency": "United States Dollar",
+        "continent": "North America",
+        "language": "English"
+      },
+      "flag": "united_states.jpg"
+    },
+    {
+      "name": "Vietnam",
+      "details": {
+        "capital": "Hanoi",
+        "population": 95540800,
+        "currency": "Vietnamese Dong",
+        "continent": "Asia",
+        "language": "Vietnamese"
+      },
+      "flag": "vietnam.jpg"
+    },
+    {
+      "name": "Zambia",
+      "details": {
+        "capital": "Lusaka",
+        "population": 17094130,
+        "currency": "Zambian Kwacha",
+        "continent": "Africa",
+        "language": "English"
+      },
+      "flag": "zambia.jpg"
+    }
+  ]
+  

@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+Technical Challenge – Internships at Workhuman
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technical Challenge:
+Create a small web application using your own choice of Frontend and
+Backend technologies.
+This application should display a list of countries, including a text input
+field for searching. You should be able to provide a string in this input
+field, run a search on the list of countries, and return those which match
+your input. For example, searching for "eden" should return "Sweden" in
+the new list, and searching "united" should return "United States of
+America" & "United Kingdom" in the new list. The search functionality
+should be case insensitive (e.g "ireland" should return "Ireland" in the
+new list).
+Your application Frontend and Backend must interact, in a typical
+Request-Response model.
+The list of countries is provided below - and should be stored in some
+persistent layer that the Backend can access (e.g SQLite database,
+some appropriate data structure, etc.).
+On the day of the interview, we will ask you to do the following:
+• Run the application locally, showcasing its functionality and your
+implementation.
+• Explain some of the technical choices you made (choice of
+Frontend/Backend technologies, how you persisted list of
+countries and why, etc.)
+• Discuss some potential areas of improvement (design,
+performance, etc.)
+There is no limitation on the use of Google, Stack Overflow, etc. to
+research and develop this application.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Technical Challenge Data (list of countries):
+• Albania
+• Andorra
+• Australia
+• Brazil
+• Belgium
+• Canada
+• China
+• France
+• Germany
+• India
+• Indonesia
+• Ireland
+• Italy
+• Japan
+• Kenya
+• Luxembourg
+• Mexico
+• New Zealand
+• Nigeria
+• Portugal
+• Russia
+• South Africa
+• South Korea
+• Spain
+• Sweden
+• Thailand
+• Ukraine
+• United Kingdom
+• United States of America
+• Vietnam
+• Zambia
